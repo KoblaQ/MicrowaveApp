@@ -1,6 +1,7 @@
 //PS: Add public only when it is in another class file. If it is embedded in the same main class, just start with the class. 
 public class Microwave {
 	
+	
 	//These are the Attributes
 	protected String brand;
 	public String getBrand() {
