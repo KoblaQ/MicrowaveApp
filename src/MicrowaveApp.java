@@ -5,6 +5,7 @@ public class MicrowaveApp {
 		
 		System.out.println("First commit");
 		System.out.println("second commit");
+		System.out.println("Third commit");
 		
 //		// This is the first Object (microwave1) for the Microwave Class being created. 
 //		Microwave microwave1 = new Microwave();
