@@ -4,6 +4,7 @@ public class MicrowaveApp {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First commit");
+		System.out.println("second commit");
 		
 //		// This is the first Object (microwave1) for the Microwave Class being created. 
 //		Microwave microwave1 = new Microwave();
